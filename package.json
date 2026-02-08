@@ -1,6 +1,7 @@
 {
   "name": "assignment-2-testing",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "test": "vitest",
     "test:coverage": "vitest run --coverage"
